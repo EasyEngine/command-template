@@ -1,0 +1,13 @@
+{
+    "name": "author/command-name",
+    "description": "",
+    "type": "ee-cli-package",
+    "homepage": "https://github.com/author/command-name",
+    "license": "MIT",
+    "authors": [],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "files": [ "command.php" ]
+    }
+}
